@@ -26,3 +26,6 @@ git config --global user.email "gmail.com"
 gitclone :how to down load source code from scm
 it take the source code from repository replicates to the local machine
 when clone the repository it clone the code with history also
+branches:when we create repository default create one master branch
+master branch must have well tested code
+when ever we have a new requirement or bugs first create one branch do that developement and testing on that branch that changes on a new branch to master branch
